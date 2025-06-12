@@ -4,9 +4,10 @@ ChillDIN与寒蝉德黑体。源于德国工业标准字体“DIN”，基于D-D
 "ChillDIN" is derived from the German industrial standard font 'DIN', based on refinements of D-DIN. <br>
 The Chinese font pairing originates from ChillDuanSans (Source Han Sans), with modified parameters and integrated punctuation."<br>
 
-![ChillDIN_画板 1](https://github.com/user-attachments/assets/a1c8ccbf-22b0-4ee9-960d-ab06f458c986)
-![ChillDIN_画板 1 副本](https://github.com/user-attachments/assets/04efc743-8942-4587-81c0-ed7217cf7f8a)
-![ChillDIN_画板 1 副本 2](https://github.com/user-attachments/assets/93566031-6b46-4fc2-ac9a-e2da21190ad4)
-![ChillDIN_画板 1 副本 3](https://github.com/user-attachments/assets/c10b62f5-4899-4131-a49e-c038e54c1fcf)
+![ChillDIN_01](https://github.com/user-attachments/assets/c634a210-f883-4ad7-88c1-586432f6625a)
+![ChillDIN_02](https://github.com/user-attachments/assets/0b6711fe-ee0f-4023-ac74-b5c9544ba870)
+![ChillDIN_03](https://github.com/user-attachments/assets/754de87a-7a10-43f1-96ab-e4b2fdbb40cb)
+![ChillDIN_04](https://github.com/user-attachments/assets/796789a5-d6e9-4efd-8168-2423e8996030)
+
 
 end.
